@@ -1,0 +1,18 @@
+.article-poster {
+    float: left;
+    width: 25%;
+    margin-right: 1.5rem;
+}
+
+.article-title {
+
+  h2 {
+    font-size: 1.2em;
+    color: $secondarycolor;
+    }
+  h1 {
+      font-size: 2rem;
+      margin-bottom: 0;
+      color: $primarycolor;
+    }
+}
